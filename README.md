@@ -1,6 +1,6 @@
 # readability-analyzer
-This project initially analyzes the readability of a text file specified by the user. It makes use of the Flesch-Reading Ease Test that uses total amounts of
-syllables, word, and sentences to output an index that corresponds to a US grade level.
+This project initially analyzes the readability of a text file specified by the user. It makes use of the Flesch-Reading Ease Test that uses the total amounts of
+syllables, word, and sentences in a text to output an index that corresponds to a US grade level.
 
 After the readability is analyzed and a grade level is outputted, the user is presented with the option to
 either maximize the readability of the file or minimize it. To maximize the readability is to make it more
